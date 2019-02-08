@@ -1,0 +1,13 @@
+{
+    "name": "bimlesh/contact",
+    "description": "This will send query in email and save data in database",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bimlesh Tiwari",
+            "email": "bimlesh.kumar@swanbay.tv"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
